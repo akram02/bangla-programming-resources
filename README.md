@@ -586,6 +586,7 @@
 
 ### সিস্টেম ডিজাইন
 * [সিস্টেম ডিজাইন বাংলা](https://github.com/lahin31/system-design-bangla) - [লাহিন](https://www.linkedin.com/in/lahin31/)
+* [মন্টু মিয়াঁর সিস্টেম ডিজাইন অভিযান](https://www.montumia.com) - [Shakirul Hasan (Mobin) Khan](https://www.linkedin.com/in/shakirulhasan)
 
 ### এপিআই (এপ্লিকেশন প্রোগ্রামিং ইন্টারফেস)
 * [ডিজাইনিং রেস্ট এপিআই](http://apikothon.com/category/%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A6%BF%E0%A6%82-%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A7%8D%E0%A6%9F-%E0%A6%8F%E0%A6%AA%E0%A6%BF%E0%A6%86%E0%A6%87) - [ইকরাম হোসাইন](https://www.facebook.com/ikrum)
